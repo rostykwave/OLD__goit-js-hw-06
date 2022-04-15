@@ -22,3 +22,6 @@ const getUsersWithFriend = (users, friendName) => {
 
 console.log(getUsersWithFriend(users, 'Briana Decker')); // [ 'Sharlene Bush', 'Sheree Anthony' ]
 console.log(getUsersWithFriend(users, 'Goldie Gentry')); // [ 'Elma Head', 'Sheree Anthony' ]
+
+
+/////Масив імен всіх користувачів у яких є друг із зазначеним ім'ям.
